@@ -22,7 +22,7 @@ setup(
       'MarkupSafe', 'matplotlib', 'numpy', 'opencv-python', 'pandas',
       'pandas_summary', 'pickleshare', 'Pillow', 'plotnine',
       'ptyprocess', 'Pygments', 'pyparsing', 'python-dateutil', 'pytz', 'PyYAML', 'pyzmq', 'scipy',
-      'seaborn', 'simplegeneric', 'sklearn_pandas', 'spacy', 'testpath', 'torch<0.4', 'torchtext',
+      'seaborn', 'simplegeneric', 'sklearn_pandas', 'spacy', 'testpath', 'torch<2.7', 'torchtext',
       'torchvision', 'tornado', 'tqdm', 'traitlets', 'wcwidth', 'webencodings', 'widgetsnbextension'],
     keywords = ['deeplearning', 'pytorch', 'machinelearning'],
     classifiers = ['Development Status :: 3 - Alpha',
